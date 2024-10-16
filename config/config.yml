@@ -1,0 +1,4 @@
+pipeline:
+  movie_dataset_path: "/path/to/movie_dataset.csv"
+  similar_movies_threshold: 0.8
+  co_occurrence_threshold: 5
